@@ -1,0 +1,6 @@
+
+id:Robotics
+ns:https://arjunbadyal.github.io/Robotics
+narration-base:https://arjunbadyal.github.io/Robotics
+url-base:https://arjunbadyal.github.io/:sTeX
+format:stex
